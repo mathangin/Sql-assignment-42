@@ -1,1 +1,0 @@
-# Sql-assignment-42
